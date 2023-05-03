@@ -1,4 +1,5 @@
 Hello world!
+Important bugfixes
 Just some edits here
 New changes
 Hi, this is Anne
